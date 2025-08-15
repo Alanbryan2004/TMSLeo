@@ -5,7 +5,7 @@
             "destination": "http://w2022-0691.emartim.com.br:35391/api/token"
         },
         {
-            "source": "/api/transportador/cadastrar-spot/:cnpj",
+            "source": "/api/transportador/cadastrar-spot",
             "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/cadastrar-spot"
         },
         {
