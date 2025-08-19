@@ -15,7 +15,7 @@
         },
         {
             "source": "/api/transportador/buscar-fatura/:cnpj",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-fatura/:cnpj"
+            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-fatura?_cgc_cpf=:cnpj"
         }
     ]
 }
