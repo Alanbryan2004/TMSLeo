@@ -17,11 +17,11 @@
             "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-fatura"
         },
         {
-            "source" : "/api/transportador/aprovar-spot",
+            "source": "/api/transportador/aprovar-spot",
             "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/aprovar-spot"
         },
         {
-            "source" : "/api/transportador/reprovar-spot",
+            "source": "/api/transportador/reprovar-spot",
             "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/reprovar-spot"
         },
         {
@@ -31,6 +31,10 @@
         {
             "source": "/api/transportador/buscar-classes-veiculo",
             "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-classes-veiculo"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
         }
     ]
 }
