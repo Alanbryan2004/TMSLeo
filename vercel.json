@@ -1,44 +1,52 @@
 {
-    "rewrites": [
-        {
-            "source": "/api/token",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/token"
-        },
-        {
-            "source": "/api/transportador/cadastrar-spot",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/cadastrar-spot"
-        },
-        {
-            "source": "/api/conhecimento/validar-frete",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/conhecimento/validar-frete"
-        },
-        {
-            "source": "/api/transportador/buscar-fatura",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-fatura"
-        },
-        {
-            "source": "/api/transportador/aprovar-spot",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/aprovar-spot"
-        },
-        {
-            "source": "/api/transportador/reprovar-spot",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/reprovar-spot"
-        },
-        {
-            "source": "/api/transportador/buscar-transportadores-pendentes",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-transportadores-pendentes"
-        },
-        {
-            "source": "/api/transportador/buscar-classes-veiculo",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-classes-veiculo"
-        },
-        {
-            "source": "/api/loja/buscar-coletas",
-            "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-coletas"
-        },
-        {
-            "source": "/(.*)",
-            "destination": "/index.html"
-        }
-    ]
+  "rewrites": [
+    {
+      "source": "/api/token",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/token"
+    },
+    {
+      "source": "/api/transportador/cadastrar-spot",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/cadastrar-spot"
+    },
+    {
+      "source": "/api/conhecimento/validar-frete",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/conhecimento/validar-frete"
+    },
+    {
+      "source": "/api/transportador/buscar-fatura",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-fatura"
+    },
+    {
+      "source": "/api/transportador/aprovar-spot",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/aprovar-spot"
+    },
+    {
+      "source": "/api/transportador/reprovar-spot",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/reprovar-spot"
+    },
+    {
+      "source": "/api/transportador/buscar-transportadores-pendentes",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-transportadores-pendentes"
+    },
+    {
+      "source": "/api/transportador/buscar-classes-veiculo",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-classes-veiculo"
+    },
+    {
+      "source": "/api/Loja/buscar-coletas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/buscar-coletas"
+    },
+    {
+      "source": "/api/Loja/cadastrar-carreteiro",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/cadastrar-carreteiro"
+    },
+    {
+      "source": "/api/Loja/buscar-notas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/buscar-notas"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
