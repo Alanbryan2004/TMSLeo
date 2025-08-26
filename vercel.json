@@ -41,6 +41,10 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/cadastrar-carreteiro"
     },
     {
+      "source": "/api/Loja/cadastrar-carreteiro",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/listar-carreteiros"
+    },
+    {
       "source": "/api/Loja/buscar-notas",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/buscar-notas"
     },
