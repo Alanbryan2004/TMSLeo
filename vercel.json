@@ -33,24 +33,36 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-classes-veiculo"
     },
     {
-      "source": "/api/Loja/buscar-coletas",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/buscar-coletas"
+      "source": "/api/loja/buscar-coletas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-coletas"
     },
     {
-      "source": "/api/Loja/cadastrar-carreteiro",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/cadastrar-carreteiro"
+      "source": "/api/loja/cadastrar-carreteiro",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/cadastrar-carreteiro"
     },
     {
-      "source": "/api/Loja/listar-carreteiros",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/listar-carreteiros"
+      "source": "/api/loja/listar-carreteiros",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/listar-carreteiros"
     },
     {
-      "source": "/api/Loja/buscar-notas",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/buscar-notas"
+      "source": "/api/loja/buscar-notas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-notas"
     },
     {
-      "source": "/api/Loja/coleta",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/Loja/coleta"
+      "source": "/api/loja/coleta",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/coleta"
+    },
+    {
+      "source": "/api/embarcador/aprovar-coleta",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/aprovar-coleta"
+    },
+    {
+      "source": "/api/embarcador/reprovar-coleta",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-coleta"
+    },
+    {
+      "source": "/api/loja/buscar-cliente",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-cliente"
     },
     {
       "source": "/(.*)",
