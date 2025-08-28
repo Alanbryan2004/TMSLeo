@@ -61,6 +61,10 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-coleta"
     },
     {
+      "source": "/api/transportador/buscar-conhecimento-fatura",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-conhecimento-fatura"
+    }
+    {
       "source": "/api/loja/buscar-cliente",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-cliente"
     },
