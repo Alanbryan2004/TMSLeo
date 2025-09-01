@@ -93,6 +93,10 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/baixar-fatura-pdf"
     },
     {
+      "source": "/api/report/(.*)",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/report/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
