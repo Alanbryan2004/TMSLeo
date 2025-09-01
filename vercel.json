@@ -71,7 +71,23 @@
     {
       "source": "/api/loja/buscar-loja",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/buscar-loja"
-    },   
+    },
+    {
+      "source": "/api/loja/cadastrar-loja",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/cadastrar-loja"
+    },
+    {
+      "source": "/api/loja/atualizar-loja",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/atualizar-loja"
+    },
+    {
+      "source": "/api/embarcador/aprovar-loja",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/aprovar-loja"
+    },
+        {
+      "source": "/api/embarcador/reprovar-loja",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-loja"
+    },
     {
       "source": "/(.*)",
       "destination": "/index.html"
