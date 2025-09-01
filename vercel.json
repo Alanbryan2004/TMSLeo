@@ -89,8 +89,8 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-loja"
     },
     {
-      "source": "/api/transportador/baixar-fatura-pdf",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/baixar-fatura-pdf"
+      "source": "/api/report/fatura/:cgcFilial/:numeroFatura",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/fatura/:cgcFilial/:numeroFatura"
     },
     {
       "source": "/(.*)",
