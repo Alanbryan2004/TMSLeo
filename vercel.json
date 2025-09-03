@@ -61,6 +61,14 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-coleta"
     },
     {
+      "source": "/api/transportador/atualizar-transportador",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/atualizar-transportador"
+    },
+    {
+      "source": "/api/transportador/buscar-dados-transportador",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-dados-transportador"
+    },
+    {
       "source": "/api/transportador/buscar-conhecimento-fatura",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-conhecimento-fatura"
     },
@@ -89,12 +97,12 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/reprovar-loja"
     },
     {
-      "source": "/api/transportador/baixar-fatura-pdf",
-      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/baixar-fatura-pdf"
-    },
-    {
       "source": "/api/report/(.*)",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/report/$1"
+    },
+    {
+      "source": "/api/loja/calcular-frete-coleta",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/calcular-frete-coleta"
     },
     {
       "source": "/(.*)",
