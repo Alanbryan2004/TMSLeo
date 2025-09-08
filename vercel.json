@@ -103,14 +103,30 @@
     {
       "source": "/api/loja/calcular-frete-coleta",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/calcular-frete-coleta"
-	},
-	{
+    },
+    {
       "source": "/api/transportador/buscar-despesas-frete-todas-lojas",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-despesas-frete-todas-lojas"
     },
     {
       "source": "/api/transportador/buscar-despesas-frete",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-despesas-frete"
+    },
+    {
+      "source": "/api/embarcador/buscar-transportadoras-faturamento",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-transportadoras-faturamento"
+    },
+    {
+      "source": "/api/embarcador/buscar-loja-faturamento",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-loja-faturamento"
+    },
+    {
+      "source": "/api/embarcador/buscar-cabecalhos-faturamento",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-cabecalhos-faturamento"
+    },
+    {
+      "source": "/api/embarcador/buscar-faturamento-mensal",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-faturamento-mensal"
     },
     {
       "source": "/(.*)",
