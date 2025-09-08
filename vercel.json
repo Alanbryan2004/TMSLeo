@@ -103,6 +103,14 @@
     {
       "source": "/api/loja/calcular-frete-coleta",
       "destination": "http://w2022-0691.emartim.com.br:35391/api/loja/calcular-frete-coleta"
+	},
+	{
+      "source": "/api/transportador/buscar-despesas-frete-todas-lojas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-despesas-frete-todas-lojas"
+    },
+    {
+      "source": "/api/transportador/buscar-despesas-frete",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/transportador/buscar-despesas-frete"
     },
     {
       "source": "/(.*)",
