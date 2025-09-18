@@ -129,6 +129,14 @@
       "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-faturamento-mensal"
     },
     {
+      "source": "/api/embarcador/buscar-posicao-entrega",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-posicao-entrega"
+    },
+    {
+      "source": "/api/embarcador/buscar-posicao-entrega-notas",
+      "destination": "http://w2022-0691.emartim.com.br:35391/api/embarcador/buscar-posicao-entrega-notas"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
