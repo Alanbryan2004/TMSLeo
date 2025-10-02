@@ -2,139 +2,139 @@
   "rewrites": [
     {
       "source": "/api/token",
-      "destination": "http://138.59.144.69:35391:35391/api/token"
+      "destination": "http://138.59.144.69:35391/api/token"
     },
     {
       "source": "/api/transportador/cadastrar-spot",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/cadastrar-spot"
+      "destination": "http://138.59.144.69:35391/api/transportador/cadastrar-spot"
     },
     {
       "source": "/api/conhecimento/validar-frete",
-      "destination": "http://138.59.144.69:35391:35391/api/conhecimento/validar-frete"
+      "destination": "http://138.59.144.69:35391/api/conhecimento/validar-frete"
     },
     {
       "source": "/api/transportador/buscar-fatura",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-fatura"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-fatura"
     },
     {
       "source": "/api/transportador/aprovar-spot",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/aprovar-spot"
+      "destination": "http://138.59.144.69:35391/api/transportador/aprovar-spot"
     },
     {
       "source": "/api/transportador/reprovar-spot",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/reprovar-spot"
+      "destination": "http://138.59.144.69:35391/api/transportador/reprovar-spot"
     },
     {
       "source": "/api/transportador/buscar-transportadores-pendentes",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-transportadores-pendentes"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-transportadores-pendentes"
     },
     {
       "source": "/api/transportador/buscar-classes-veiculo",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-classes-veiculo"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-classes-veiculo"
     },
     {
       "source": "/api/loja/buscar-coletas",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/buscar-coletas"
+      "destination": "http://138.59.144.69:35391/api/loja/buscar-coletas"
     },
     {
       "source": "/api/loja/cadastrar-carreteiro",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/cadastrar-carreteiro"
+      "destination": "http://138.59.144.69:35391/api/loja/cadastrar-carreteiro"
     },
     {
       "source": "/api/loja/listar-carreteiros",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/listar-carreteiros"
+      "destination": "http://138.59.144.69:35391/api/loja/listar-carreteiros"
     },
     {
       "source": "/api/loja/buscar-notas",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/buscar-notas"
+      "destination": "http://138.59.144.69:35391/api/loja/buscar-notas"
     },
     {
       "source": "/api/loja/coleta",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/coleta"
+      "destination": "http://138.59.144.69:35391/api/loja/coleta"
     },
     {
       "source": "/api/embarcador/aprovar-coleta",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/aprovar-coleta"
+      "destination": "http://138.59.144.69:35391/api/embarcador/aprovar-coleta"
     },
     {
       "source": "/api/embarcador/reprovar-coleta",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/reprovar-coleta"
+      "destination": "http://138.59.144.69:35391/api/embarcador/reprovar-coleta"
     },
     {
       "source": "/api/transportador/atualizar-transportador",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/atualizar-transportador"
+      "destination": "http://138.59.144.69:35391/api/transportador/atualizar-transportador"
     },
     {
       "source": "/api/transportador/buscar-dados-transportador",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-dados-transportador"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-dados-transportador"
     },
     {
       "source": "/api/transportador/buscar-conhecimento-fatura",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-conhecimento-fatura"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-conhecimento-fatura"
     },
     {
       "source": "/api/loja/buscar-cliente",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/buscar-cliente"
+      "destination": "http://138.59.144.69:35391/api/loja/buscar-cliente"
     },
     {
       "source": "/api/loja/buscar-loja",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/buscar-loja"
+      "destination": "http://138.59.144.69:35391/api/loja/buscar-loja"
     },
     {
       "source": "/api/loja/cadastrar-loja",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/cadastrar-loja"
+      "destination": "http://138.59.144.69:35391/api/loja/cadastrar-loja"
     },
     {
       "source": "/api/loja/atualizar-loja",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/atualizar-loja"
+      "destination": "http://138.59.144.69:35391/api/loja/atualizar-loja"
     },
     {
       "source": "/api/embarcador/aprovar-loja",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/aprovar-loja"
+      "destination": "http://138.59.144.69:35391/api/embarcador/aprovar-loja"
     },
         {
       "source": "/api/embarcador/reprovar-loja",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/reprovar-loja"
+      "destination": "http://138.59.144.69:35391/api/embarcador/reprovar-loja"
     },
     {
       "source": "/api/report/(.*)",
-      "destination": "http://138.59.144.69:35391:35391/api/report/$1"
+      "destination": "http://138.59.144.69:35391/api/report/$1"
     },
     {
       "source": "/api/loja/calcular-frete-coleta",
-      "destination": "http://138.59.144.69:35391:35391/api/loja/calcular-frete-coleta"
+      "destination": "http://138.59.144.69:35391/api/loja/calcular-frete-coleta"
     },
     {
       "source": "/api/transportador/buscar-despesas-frete-todas-lojas",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-despesas-frete-todas-lojas"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-despesas-frete-todas-lojas"
     },
     {
       "source": "/api/transportador/buscar-despesas-frete",
-      "destination": "http://138.59.144.69:35391:35391/api/transportador/buscar-despesas-frete"
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-despesas-frete"
     },
     {
       "source": "/api/embarcador/buscar-transportadoras-faturamento",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-transportadoras-faturamento"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-transportadoras-faturamento"
     },
     {
       "source": "/api/embarcador/buscar-loja-faturamento",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-loja-faturamento"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-loja-faturamento"
     },
     {
       "source": "/api/embarcador/buscar-cabecalhos-faturamento",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-cabecalhos-faturamento"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-cabecalhos-faturamento"
     },
     {
       "source": "/api/embarcador/buscar-faturamento-mensal",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-faturamento-mensal"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-faturamento-mensal"
     },
     {
       "source": "/api/embarcador/buscar-posicao-entrega",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-posicao-entrega"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-posicao-entrega"
     },
     {
       "source": "/api/embarcador/buscar-posicao-entrega-notas",
-      "destination": "http://138.59.144.69:35391:35391/api/embarcador/buscar-posicao-entrega-notas"
+      "destination": "http://138.59.144.69:35391/api/embarcador/buscar-posicao-entrega-notas"
     },
     {
       "source": "/(.*)",
