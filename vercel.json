@@ -113,6 +113,10 @@
       "destination": "http://138.59.144.69:35391/api/transportador/buscar-despesas-frete"
     },
     {
+      "source": "/api/transportador/buscar-despesas-frete-regiao",
+      "destination": "http://138.59.144.69:35391/api/transportador/buscar-despesas-frete-regiao"
+    },
+    {
       "source": "/api/embarcador/buscar-transportadoras-faturamento",
       "destination": "http://138.59.144.69:35391/api/embarcador/buscar-transportadoras-faturamento"
     },
