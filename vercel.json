@@ -95,7 +95,7 @@
     {
       "source": "/api/loja/incluir-nf-servico",
       "destination": "http://138.59.144.69:35391/api/loja/incluir-nf-servico"
-    }
+    },
     {
       "source": "/api/embarcador/aprovar-loja",
       "destination": "http://138.59.144.69:35391/api/embarcador/aprovar-loja"
