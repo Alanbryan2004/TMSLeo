@@ -151,7 +151,7 @@
     {
       "source": "/api/loja/editar-frete-coleta",
       "destination": "http://138.59.144.69:35391/api/loja/editar-frete-coleta"
-    }
+    },
     {
       "source": "/api/embarcador/buscar-aprovacoes-pendentes",
       "destination": "http://138.59.144.69:35391/api/embarcador/buscar-aprovacoes-pendentes"
