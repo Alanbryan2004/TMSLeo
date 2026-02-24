@@ -157,6 +157,22 @@
       "destination": "http://138.59.144.69:35391/api/embarcador/buscar-aprovacoes-pendentes"
     },
     {
+      "source": "/api/token/enviar-email",
+      "destination": "http://138.59.144.69:35391/api/token/enviar-email"
+    },
+    {
+      "source": "/api/token/decodificar-hash",
+      "destination": "http://138.59.144.69:35391/api/token/decodificar-hash"
+    },
+    {
+      "source": "/api/token/resetar-senha",
+      "destination": "http://138.59.144.69:35391/api/token/resetar-senha"
+    },
+    {
+      "source": "/api/token/consultar-email-recuperacao",
+      "destination": "http://138.59.144.69:35391/api/token/consultar-email-recuperacao"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
