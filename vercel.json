@@ -65,6 +65,14 @@
       "destination": "http://138.59.144.69:35391/api/embarcador/reprovar-coleta"
     },
     {
+      "source": "/api/embarcador/aprovar-coleta-lote",
+      "destination": "http://138.59.144.69:35391/api/embarcador/aprovar-coleta-lote"
+    },
+    {
+      "source": "/api/embarcador/reprovar-coleta-lote",
+      "destination": "http://138.59.144.69:35391/api/embarcador/reprovar-coleta-lote"
+    },
+    {
       "source": "/api/transportador/atualizar-transportador",
       "destination": "http://138.59.144.69:35391/api/transportador/atualizar-transportador"
     },
